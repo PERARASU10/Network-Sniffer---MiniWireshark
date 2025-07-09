@@ -73,8 +73,8 @@ This tool is intended for educational and ethical testing purposes only. Do not 
 
 ## 🙌 Acknowledgements
 
-    Scapy – Powerful Python packet manipulation library
+Scapy – Powerful Python packet manipulation library
 
-    Tkinter – Built-in Python GUI framework
+Tkinter – Built-in Python GUI framework
 
-    Wireshark – The inspiration for this project
+Wireshark – The inspiration for this project
