@@ -17,6 +17,26 @@ A Python-based GUI packet sniffer built with **Scapy** and **Tkinter**, offering
 - ✅ Clear and reload packet table without losing data
 - ✅ "Show All" button to reset view after searching
 
+## 🔍 What's New in This Project:
+
+✅ Suspicious Port Detection: Automatically flags traffic to common attack ports like 21, 23, 445, 3389, etc.
+
+🧠 Beginner-Friendly Interface: Simplified GUI designed for students and learners — no clutter, no config files.
+
+🐍 Fully Customizable in Python: Built with Scapy + Tkinter — easy to read, modify, and extend.
+
+🔍 Real-Time IP/Port Search: Instantly filter packets based on IP address or port without losing captured data.
+
+🧹 Clear & Reload Display: Reset the output view at any time without wiping stored packets.
+
+📊 Protocol Statistics Pie Chart: Visual overview of TCP/UDP/ICMP/DNS usage across the session.
+
+📦 Export to PCAP: Save captured packets to .pcap format for later analysis in Wireshark.
+
+🚀 No External Dependencies: Runs on Python with minimal libraries — Scapy and Matplotlib only.
+
+💡 Educational Focus: Great for demonstrating live packet capture, protocol behavior, and network inspection in classrooms or tutorials.
+
 ---
 
 ## 🧰 Requirements
